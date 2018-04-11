@@ -1,0 +1,31 @@
+{
+  "name": "meu-site-pessoal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "browser-sync": "^2.23.6",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.14.3",
+    "tether": "^1.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusMarquesP/meu-site-pessoal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusMarquesP/meu-site-pessoal/issues"
+  },
+  "homepage": "https://github.com/MatheusMarquesP/meu-site-pessoal#readme"
+}
